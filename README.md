@@ -26,14 +26,14 @@ The label below the grid guides whose turn is next.
 # Getting Started
 Clone this repository:
 text
-git clone https://github.com/yourusername/tic-tac-toe-tkinter.git
-cd tic-tac-toe-tkinter
+git clone https://github.com/aman-nim/Python-Tic-Tac-Toe-Game
+and try it at https://www.w3resource.com/python-exercises/tkinter/index.php
 
-Requirements:
+# Requirements:
 Python 3.x
 Tkinter (usually bundled with Python)
 
-Run the game:
+# Run the game:
 text
 python main.py
 File Structure
